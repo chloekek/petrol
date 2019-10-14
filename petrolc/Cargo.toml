@@ -1,0 +1,6 @@
+[package]
+name = "petrolc"
+version = "0.0.0"
+
+[dependencies]
+typed-arena = {version = "1.6.1"}
